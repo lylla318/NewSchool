@@ -15,7 +15,7 @@ lylla.younes@propublica.org
 ## Classes
 1. **Monday, September 23: Intro** 
 
-	* [slides](https://docs.google.com/presentation/d/13ZOKIvIK0nEqAZIAmmN4B1pC8hkKDBnkpuTdDD-7rTs/edit#slide=id.p)
+	* [slides](https://docs.google.com/presentation/d/1U1TU5_5LrERjizLrjQ1mQgbo4EhoBLjSUAW1MAzPYHE/edit?usp=sharing)
   
 	
 ## Resources
