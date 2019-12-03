@@ -32,7 +32,7 @@ lylla.younes@propublica.org
 	* [How to fill formulas for multiple rows](https://www.youtube.com/watch?v=UCwRPrl2azw) (video)
 	* [How to fill down with double click instead of dragging](https://youtu.be/2-QJD7GADSM?t=47) (video, see 0:57)
 
-* Design Principles, [Lena Greoger](https://www.propublica.org/nerds/design-principles-for-news-apps-graphics)
+* [Design Principles for Graphics and News Apps](https://www.propublica.org/nerds/design-principles-for-news-apps-graphics), Lena Groeger, ProPublica
 
 * NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 
