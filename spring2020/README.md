@@ -14,6 +14,7 @@ lylla.younes@propublica.org
 
 ## Classes
 
+* [Class 1 Slides](https://docs.google.com/presentation/d/1U-9AizywsTqGlREmW8utlB8UhQu_RCg1r_Vojy4RCBY/edit?usp=sharing), January 30
 	
 ## Resources
 
