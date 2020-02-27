@@ -18,6 +18,7 @@ lylla.younes@propublica.org
 * [Class 2 Folder](https://drive.google.com/drive/folders/1nU7MYh20k36QQC3SXiX8f54bwsdWu1Gd?usp=sharing), February 27
 	* [The Global Consequences of Corona Virus](https://www.nytimes.com/interactive/2020/02/21/business/coronavirus-airline-travel.html), New York Times
 	* [Hot Info From Russia](https://topic-radar.texty.org/#/)
+	* [Tracking Every Presidential Candidate’s TV Ad Buys](https://projects.fivethirtyeight.com/2020-campaign-ads/), FiveThirtyEight
 	* [The Legacy of Old Oil Wells](https://www.latimes.com/projects/california-oil-well-drilling-idle-cleanup/), Los Angeles Times
 	
 ## Resources
