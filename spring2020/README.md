@@ -15,6 +15,10 @@ lylla.younes@propublica.org
 ## Classes
 
 * [Class 1 Slides](https://docs.google.com/presentation/d/1U-9AizywsTqGlREmW8utlB8UhQu_RCg1r_Vojy4RCBY/edit?usp=sharing), January 30
+* [Class 2 Folder](https://drive.google.com/drive/folders/1nU7MYh20k36QQC3SXiX8f54bwsdWu1Gd?usp=sharing), February 27
+	* [The Global Consequences of Corona Virus](https://www.nytimes.com/interactive/2020/02/21/business/coronavirus-airline-travel.html), New York Times
+	* [Hot Info From Russia](https://topic-radar.texty.org/#/)
+	* [The Legacy of Old Oil Wells](https://www.latimes.com/projects/california-oil-well-drilling-idle-cleanup/), Los Angeles Times
 	
 ## Resources
 
