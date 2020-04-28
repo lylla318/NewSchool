@@ -20,6 +20,8 @@ lylla.younes@propublica.org
 	* [Hot Info From Russia](https://topic-radar.texty.org/#/)
 	* [Tracking Every Presidential Candidate’s TV Ad Buys](https://projects.fivethirtyeight.com/2020-campaign-ads/), FiveThirtyEight
 	* [The Legacy of Old Oil Wells](https://www.latimes.com/projects/california-oil-well-drilling-idle-cleanup/), Los Angeles Times
+* [Class 3 Slides](https://drive.google.com/drive/folders/1c2gB2UYidkpHS8O1ZKO621xpmL8cbeCO?usp=sharing), April 7
+* [Class 4 Folder](https://drive.google.com/drive/folders/1zkfwaCscZeTfszwEIVV0n0ghxYz8RApl?usp=sharing), April 28
 	
 ## Resources
 
